@@ -2,7 +2,7 @@
 
 .p  {
     background-color: rgb(245, 148, 161);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, sans-serif;
 }
 
 #N2 {
@@ -10,6 +10,12 @@
     font-size: 36px;
 }
 
-.n3 {
+.cooler {
     font-size: 24px;
+}
+
+#N4 {
+    background-color: rgb(120, 228, 116);
+    font-size: 24px; 
+    font-weight: bold;
 }
