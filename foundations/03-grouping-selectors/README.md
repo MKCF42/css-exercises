@@ -1,1 +1,1 @@
-This folder contains my exercises for basic css from The Odin Project on grouping selectors.
+This 3rd exercis contains my work for basic css from The Odin Project on grouping selectors.
