@@ -1,1 +1,7 @@
 /* style.css */
+
+.proportioned,
+.distorted 
+{
+    width:"300";
+}
