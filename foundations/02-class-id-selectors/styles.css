@@ -5,14 +5,15 @@
     font-family: Verdana, sans-serif;
 }
 
+.cooler {
+    font-size: 24px;
+}
+
 #N2 {
     color:  rgb(31, 13, 114);
     font-size: 36px;
 }
 
-.cooler {
-    font-size: 24px;
-}
 
 #N4 {
     background-color: rgb(120, 228, 116);
