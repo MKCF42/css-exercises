@@ -4,3 +4,13 @@
     color: white;
     background-color: black;
 }
+
+.noME {
+    background-color: yellow;
+}
+
+.ME,
+.noME {
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman,sans-serif;
+}
