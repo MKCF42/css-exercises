@@ -1,6 +1,15 @@
 /* styles.css */
 
-p {
+.p  {
     background-color: rgb(245, 148, 161);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#N2 {
+    color:  rgb(31, 13, 114);
+    font-size: 36px;
+}
+
+.n3 {
+    font-size: 24px;
 }
