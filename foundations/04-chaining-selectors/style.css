@@ -1,7 +1,9 @@
 /* style.css */
 
-.proportioned,
-.distorted 
-{
-    width:"300";
+.proportioned   {
+    width: 300px; height: unset;
+}
+
+.distorted {
+    width: 200px; height: 400px;
 }
