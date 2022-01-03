@@ -1,13 +1,13 @@
+.para {
+    font-size: 22px;
+  }
+
 .parasmall-para {
   color: hsl(0, 100%, 50%);
 }
 
 .small-para {
   font-size: 12px;
-}
-
-.para {
-  font-size: 22px;
 }
 
 .confirm {
