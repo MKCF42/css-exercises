@@ -1,7 +1,8 @@
 .para {
-    font-size: 22px;
-  }
+  font-size: 22px;
+}
 
+.para,
 .parasmall-para {
   color: hsl(0, 100%, 50%);
 }
