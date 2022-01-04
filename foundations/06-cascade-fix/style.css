@@ -3,7 +3,8 @@
 }
 
 .para,
-.parasmall-para {
+.parasmall-para,
+.text.child {
   color: hsl(0, 100%, 50%);
 }
 
@@ -31,6 +32,5 @@
 }
 
 .textchild {
-    color: red;
     font-size: 14px;
   }
