@@ -25,12 +25,12 @@
   font-weight: bold
 }
 
-.textchild {
-  color: red;
-  font-size: 14px;
-}
-
 .text {
   color: green;
   font-size: 28px;
 }
+
+.textchild {
+    color: red;
+    font-size: 14px;
+  }
